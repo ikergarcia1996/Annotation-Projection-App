@@ -1,0 +1,258 @@
+¡Yum!	O	-
+
+Sirve	O	-
+muy	O	-
+buen	O	-
+sushi.	B-PER	HighQuality
+
+No	O	-
+las	O	-
+porciones	B-TARGET	HighQuality
+más	O	-
+grandes	O	-
+pero	O	-
+adecuadas.	O	-
+
+¡El	O	-
+té	B-TARGET	HighQuality
+verde	I-TARGET	HighQuality
+creme	I-TARGET	HighQuality
+brulee	I-TARGET	HighQuality
+es	O	-
+una	O	-
+necesidad!	O	-
+
+No	O	-
+salgas	O	-
+del	O	-
+restaurante	O	-
+sin	O	-
+él.	O	-
+
+Sin	O	-
+comparación	O	-
+
+-	O	-
+No	O	-
+puedo	O	-
+decir	O	-
+lo	O	-
+suficiente	O	-
+de	O	-
+este	O	-
+lugar.	B-TARGET	HighQuality
+
+Tiene	O	-
+un	O	-
+gran	O	-
+sushi	B-TARGET	HighQuality
+y	O	-
+un	O	-
+mejor	O	-
+servicio.	B-TARGET	HighQuality
+
+Todo	O	-
+el	O	-
+personal	B-TARGET	HighQuality
+era	O	-
+muy	O	-
+acomodado	O	-
+y	O	-
+atendía	O	-
+a	O	-
+todas	O	-
+mis	O	-
+necesidades.	O	-
+
+He	O	-
+estado	O	-
+en	O	-
+este	O	-
+restaurante	B-TARGET	HighQuality
+más	O	-
+de	O	-
+una	O	-
+docena	O	-
+de	O	-
+veces	O	-
+sin	O	-
+quejas	O	-
+hasta	O	-
+la	O	-
+fecha.	O	-
+
+Actitud	O	-
+mocosa	O	-
+
+-	O	-
+Nos	O	-
+trataron	O	-
+muy	O	-
+mal	O	-
+una	O	-
+vez	O	-
+aquí	O	-
+para	O	-
+desayunar.	O	-
+
+El	O	-
+dueño	B-TARGET	HighQuality
+es	O	-
+beligerante	O	-
+con	O	-
+los	O	-
+huéspedes	O	-
+que	O	-
+tienen	O	-
+una	O	-
+queja.	O	-
+
+¡Buena	O	-
+comida!	B-TARGET	HighQuality
+
+-	O	-
+Nos	O	-
+encanta	O	-
+la	O	-
+comida	O	-
+de	O	-
+desayuno.	O	-
+
+Este	O	-
+es	O	-
+un	O	-
+gran	O	-
+lugar	O	-
+para	O	-
+conseguir	O	-
+una	O	-
+deliciosa	O	-
+comida.	B-TARGET	HighQuality
+
+Nunca	O	-
+tuvimos	O	-
+que	O	-
+esperar	O	-
+más	O	-
+de	O	-
+5	O	-
+minutos.	O	-
+
+El	O	-
+personal	B-TARGET	HighQuality
+es	O	-
+muy	O	-
+amable.	O	-
+
+¡Los	O	-
+anillos	B-TARGET	HighQuality
+de	I-TARGET	HighQuality
+cebolla	I-TARGET	HighQuality
+son	O	-
+geniales!	O	-
+
+No	O	-
+son	O	-
+grasientos	O	-
+ni	O	-
+nada.	O	-
+
+Sobrevalorado	O	-
+
+-	O	-
+Me	O	-
+decepcionó	O	-
+mucho	O	-
+la	O	-
+comida	B-TARGET	HighQuality
+de	O	-
+Pagoda.	O	-
+
+El	O	-
+pollo	B-TARGET	LowQuality
+de	I-TARGET	LowQuality
+limón	I-TARGET	LowQuality
+sabía	O	-
+a	O	-
+rosquillas	O	-
+dulces	O	-
+pegajosas	O	-
+y	O	-
+los	O	-
+langostinos	B-TARGET	LowQuality
+de	I-TARGET	LowQuality
+nueces	I-TARGET	LowQuality
+de	I-TARGET	LowQuality
+miel,	I-TARGET	LowQuality
+los	O	-
+pocos	O	-
+que	O	-
+en	O	-
+realidad	O	-
+te	O	-
+dan...	O	-
+no	O	-
+eran	O	-
+buenos.	O	-
+
+Los	O	-
+precios	O	-
+son	O	-
+escandalosos,	O	-
+especialmente	O	-
+porque	O	-
+la	O	-
+comida	O	-
+era	O	-
+en	O	-
+realidad	O	-
+menos	O	-
+satisfactoria	O	-
+que	O	-
+la	O	-
+mayoría	O	-
+de	O	-
+los	O	-
+establecimientos	O	-
+chinos	O	-
+del	O	-
+barrio.	O	-
+
+Bonito	O	-
+ambiente,	B-TARGET	HighQuality
+pero	O	-
+muy	O	-
+sobrevalorado	O	-
+lugar.	B-TARGET	HighQuality
+
+No	O	-
+voy	O	-
+a	O	-
+volver.	O	-
+
+El	O	-
+peor	O	-
+servicio	B-TARGET	HighQuality
+que	O	-
+he	O	-
+tenido	O	-
+
+-	O	-
+Un	O	-
+grupo	O	-
+de	O	-
+cinco	O	-
+de	O	-
+nosotros	O	-
+fue	O	-
+allí	O	-
+para	O	-
+el	O	-
+almuerzo	O	-
+del	O	-
+domingo	O	-
+y	O	-
+se	O	-
+sentó	O	-
+fuera.	O	-
+
