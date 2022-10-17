@@ -6,5 +6,5 @@ Please see [Guidelines and manual](https://github.com/ikergarcia1996/Annotation-
 
 If you are looking for the human projected datasets see: https://github.com/ikergarcia1996/Cross-lingual-Annotation-Projection
 
-![APP](https://github.com/ikergarcia1996/Annotation-Projection-App/blob/main/Screenshots/app.png)
+![APP](https://github.com/ikergarcia1996/Annotation-Projection-App/blob/main/Screenshots/app2.png)
 
